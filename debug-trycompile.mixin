@@ -1,0 +1,9 @@
+{
+    "build": {
+        "debug-trycompile": {
+            "cmake-args": [
+                "--debug-trycompile"
+            ]
+        }
+    }
+}

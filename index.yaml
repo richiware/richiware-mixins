@@ -1,4 +1,5 @@
 mixin:
     - build.mixin
     - export-compile-commands.mixin
+    - debug-trycompile.mixin
     - warning-as-error.mixin
