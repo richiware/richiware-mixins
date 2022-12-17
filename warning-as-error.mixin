@@ -1,0 +1,9 @@
+{
+    "build": {
+        "warning-as-error": {
+            "cmake-args": [
+                "-DCMAKE_COMPILE_WARNING_AS_ERROR=ON"
+            ]
+        }
+    }
+}

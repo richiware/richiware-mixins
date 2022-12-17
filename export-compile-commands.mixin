@@ -1,0 +1,9 @@
+{
+    "build": {
+        "export-compile-commands": {
+            "cmake-args": [
+                "-DCMAKE_EXPORT_COMPILE_COMMANDS=ON"
+            ]
+        }
+    }
+}
